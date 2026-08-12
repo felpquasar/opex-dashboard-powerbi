@@ -25,6 +25,8 @@ A base bruta veio com sujeiras propositais, tratadas no Power Query:
 - Linhas duplicadas
 - Valores de custo faltantes, sinalizados numa coluna `revisar_manualmente` em vez de preenchidos artificialmente
 
+![Antes e depois da limpeza](imagens/planilha_antes_depois.png)
+
 **3. Modelo e medidas (DAX)**
 Medida de variação percentual entre valor real e orçado:
 ```dax
