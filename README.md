@@ -10,7 +10,7 @@ Como os custos operacionais de uma empresa se comportam ao longo do tempo, e qua
 
 ## O achado principal
 
-Dos 5 departamentos analisados, apenas **Recursos Humanos estourou o orçamento**: gastou R$ 203.865,64 contra R$ 199.512,69 planejados, uma variação de **-2,2%** (cerca de R$ 4.353 acima do previsto). Todos os outros quatro departamentos ficaram dentro ou abaixo do orçado — Comercial foi o mais econômico, com 6,6% de folga.
+Dos 5 departamentos analisados, apenas **Recursos Humanos estourou o orçamento**: gastou R$ 203.865,64 contra R$ 199.512,69 planejados, uma variação de **-2,2%** (cerca de R$ 4.353 acima do previsto). Todos os outros quatro departamentos ficaram dentro ou abaixo do orçado. Comercial foi o mais econômico, com 6,6% de folga.
 
 ## O que o projeto cobre
 
